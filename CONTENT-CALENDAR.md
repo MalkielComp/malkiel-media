@@ -4,6 +4,8 @@
 
 ## 19.11 · יום חמישי · 🎬 סרטון
 
+✅ פורסם · media 17925538107221901
+
 קבצים: [reels/02-night-silhouette.mp4](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/reels/02-night-silhouette.mp4)
 
 ```
@@ -29,6 +31,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 
 ## 22.11 · יום ראשון · 🎬 סרטון
 
+⏳ ממתין לאישור
+
 קבצים: [reels/05-three-mistakes.mp4](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/reels/05-three-mistakes.mp4)
 
 ```
@@ -52,6 +56,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 
 ## 23.11 · יום שני · 🖼️ קרוסלה
 
+⏳ ממתין לאישור
+
 קבצים: [instagram/parking-garage-camera.jpg](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/instagram/parking-garage-camera.jpg), [instagram/parking-garage-view.jpg](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/instagram/parking-garage-view.jpg)
 
 ```
@@ -69,6 +75,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 ```
 
 ## 24.11 · יום שלישי · 🎬 סרטון
+
+⏳ ממתין לאישור
 
 קבצים: [reels/03-three-home-spots.mp4](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/reels/03-three-home-spots.mp4)
 
@@ -92,6 +100,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 
 ## 25.11 · יום רביעי · 🖼️ תמונה
 
+⏳ ממתין לאישור
+
 קבצים: [instagram/every-style.jpg](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/instagram/every-style.jpg)
 
 ```
@@ -107,6 +117,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 ```
 
 ## 26.11 · יום חמישי · 🎬 סרטון
+
+⏳ ממתין לאישור
 
 קבצים: [reels/01-storage-days.mp4](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/reels/01-storage-days.mp4)
 
@@ -128,6 +140,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 ```
 
 ## 29.11 · יום ראשון · 🎬 סרטון
+
+⏳ ממתין לאישור
 
 קבצים: [reels/07-vaad-bayit-questions.mp4](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/reels/07-vaad-bayit-questions.mp4)
 
@@ -151,6 +165,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 
 ## 30.11 · יום שני · 🖼️ תמונה
 
+⏳ ממתין לאישור
+
 קבצים: [instagram/designed-office.jpg](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/instagram/designed-office.jpg)
 
 ```
@@ -166,6 +182,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 ```
 
 ## 01.12 · יום שלישי · 🎬 סרטון
+
+⏳ ממתין לאישור
 
 קבצים: [reels/08-cheap-vs-pro.mp4](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/reels/08-cheap-vs-pro.mp4)
 
@@ -185,6 +203,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 
 ## 02.12 · יום רביעי · 🖼️ תמונה
 
+⏳ ממתין לאישור
+
 קבצים: [instagram/roof-pole-perimeter.jpg](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/instagram/roof-pole-perimeter.jpg)
 
 ```
@@ -200,6 +220,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 ```
 
 ## 03.12 · יום חמישי · 🎬 סרטון
+
+⏳ ממתין לאישור
 
 קבצים: [reels/04-wired-or-wireless.mp4](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/reels/04-wired-or-wireless.mp4)
 
@@ -220,6 +242,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 ```
 
 ## 06.12 · יום ראשון · 🎬 סרטון
+
+⏳ ממתין לאישור
 
 קבצים: [reels/09-business-four-spots.mp4](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/reels/09-business-four-spots.mp4)
 
@@ -244,6 +268,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 
 ## 07.12 · יום שני · 🖼️ תמונה
 
+⏳ ממתין לאישור
+
 קבצים: [instagram/home-cameras-alarm.jpg](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/instagram/home-cameras-alarm.jpg)
 
 ```
@@ -259,6 +285,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 ```
 
 ## 08.12 · יום שלישי · 🎬 סרטון
+
+⏳ ממתין לאישור
 
 קבצים: [reels/06-camera-cyber.mp4](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/reels/06-camera-cyber.mp4)
 
@@ -283,6 +311,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 
 ## 09.12 · יום רביעי · 🖼️ תמונה
 
+⏳ ממתין לאישור
+
 קבצים: [instagram/designed-entrance-lobby.jpg](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/instagram/designed-entrance-lobby.jpg)
 
 ```
@@ -298,6 +328,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 ```
 
 ## 10.12 · יום חמישי · 🎬 סרטון
+
+⏳ ממתין לאישור
 
 קבצים: [reels/malkiel-reel.mp4](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/reels/malkiel-reel.mp4)
 
@@ -317,6 +349,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 
 ## 14.12 · יום שני · 🖼️ תמונה
 
+⏳ ממתין לאישור
+
 קבצים: [instagram/lobby-entrance.jpg](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/instagram/lobby-entrance.jpg)
 
 ```
@@ -332,6 +366,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 ```
 
 ## 16.12 · יום רביעי · 🖼️ תמונה
+
+⏳ ממתין לאישור
 
 קבצים: [instagram/network-cabling.jpg](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/instagram/network-cabling.jpg)
 
@@ -349,6 +385,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 
 ## 21.12 · יום שני · 🖼️ תמונה
 
+⏳ ממתין לאישור
+
 קבצים: [instagram/network-cabinet.jpg](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/instagram/network-cabinet.jpg)
 
 ```
@@ -364,6 +402,8 @@ MALKIEL TECH | תכנון, התקנה ותחזוקה של מערכות אבטח�
 ```
 
 ## 23.12 · יום רביעי · 🖼️ תמונה
+
+⏳ ממתין לאישור
 
 קבצים: [instagram/restaurant-kitchen.jpg](https://raw.githubusercontent.com/MalkielComp/malkiel-media/main/instagram/restaurant-kitchen.jpg)
 

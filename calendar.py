@@ -118,6 +118,15 @@ def main():
     data = [{"date": d, "kind": k, "files": f, "urls": [BASE + x for x in f], "caption": c, "status": "awaiting_approval"}
             for d, k, f, c in ITEMS]
     root = pathlib.Path(__file__).parent
+    old = {}
+    if (root / "calendar.json").exists():   # keep status / media ids of items already handled
+        for x in json.loads((root / "calendar.json").read_text(encoding="utf-8")):
+            old[(x["date"], tuple(x["files"]))] = x
+    for x in data:
+        prev = old.get((x["date"], tuple(x["files"])))
+        if prev:
+            for k in ("status", "media_id", "published_at"):
+                if k in prev: x[k] = prev[k]
     (root / "calendar.json").write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     md = ["# לוח תוכן – @malkieltech", "", "כל פרסום מחכה לאישור של הבעלים לפני שהוא עולה.", ""]
     days = {"Sun": "ראשון", "Mon": "שני", "Tue": "שלישי", "Wed": "רביעי", "Thu": "חמישי", "Fri": "שישי", "Sat": "שבת"}
@@ -126,6 +135,7 @@ def main():
         dt = datetime.date.fromisoformat(x["date"])
         kind = {"reel": "🎬 סרטון", "image": "🖼️ תמונה", "carousel": "🖼️ קרוסלה"}[x["kind"]]
         md += [f"## {dt.strftime('%d.%m')} · יום {days[dt.strftime('%a')]} · {kind}", "",
+               ("✅ פורסם" + (f" · media {x['media_id']}" if x.get("media_id") else "") if x.get("status") == "published" else "⏳ ממתין לאישור"), "",
                "קבצים: " + ", ".join(f"[{f}]({u})" for f, u in zip(x["files"], x["urls"])), "", "```", x["caption"], "```", ""]
     (root / "CONTENT-CALENDAR.md").write_text("\n".join(md), encoding="utf-8")
     print(len(data), "items")
